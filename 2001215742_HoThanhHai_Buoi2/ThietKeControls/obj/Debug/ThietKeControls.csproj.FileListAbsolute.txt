@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\2001215742_HoThanhHai_Buoi2\ThietKeControls\bin\Debug\ThietKeControls.dll
+c:\users\administrator\documents\visual studio 2013\Projects\2001215742_HoThanhHai_Buoi2\ThietKeControls\bin\Debug\ThietKeControls.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\2001215742_HoThanhHai_Buoi2\ThietKeControls\obj\Debug\ThietKeControls.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\2001215742_HoThanhHai_Buoi2\ThietKeControls\obj\Debug\ThietKeControls.dll
+c:\users\administrator\documents\visual studio 2013\Projects\2001215742_HoThanhHai_Buoi2\ThietKeControls\obj\Debug\ThietKeControls.pdb
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\ThietKeControls\bin\Debug\ThietKeControls.dll
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\ThietKeControls\bin\Debug\ThietKeControls.pdb
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\ThietKeControls\obj\Debug\ThietKeControls.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\ThietKeControls\obj\Debug\ThietKeControls.dll
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\ThietKeControls\obj\Debug\ThietKeControls.pdb

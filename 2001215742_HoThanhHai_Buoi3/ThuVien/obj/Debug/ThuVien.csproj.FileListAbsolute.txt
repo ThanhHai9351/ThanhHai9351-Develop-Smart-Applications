@@ -1,0 +1,5 @@
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi3\ThuVien\bin\Debug\ThuVien.dll
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi3\ThuVien\bin\Debug\ThuVien.pdb
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi3\ThuVien\obj\Debug\ThuVien.dll
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi3\ThuVien\obj\Debug\ThuVien.pdb
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi3\ThuVien\obj\Debug\ThuVien.csprojResolveAssemblyReference.cache

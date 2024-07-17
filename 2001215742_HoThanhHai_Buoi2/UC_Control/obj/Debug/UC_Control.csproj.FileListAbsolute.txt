@@ -1,0 +1,11 @@
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\UC_Control\bin\Debug\UC_Control.dll
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\UC_Control\bin\Debug\UC_Control.pdb
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\UC_Control\bin\Debug\ThietKeControls.dll
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\UC_Control\bin\Debug\ThietKeControls.pdb
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\UC_Control\obj\Debug\UC_Control.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\UC_Control\obj\Debug\UC_Control.TTSV.resources
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\UC_Control\obj\Debug\UC_Control.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\UC_Control\obj\Debug\UC_Control.dll
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\UC_Control\obj\Debug\UC_Control.pdb
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\UC_Control\obj\Debug\UC_Control.DongHoTick.resources
+E:\LuuDuLieuSV\2001215742_HoThanhHai\2001215742_HoThanhHai_Buoi2\UC_Control\obj\Debug\UC_Control.Login.resources
