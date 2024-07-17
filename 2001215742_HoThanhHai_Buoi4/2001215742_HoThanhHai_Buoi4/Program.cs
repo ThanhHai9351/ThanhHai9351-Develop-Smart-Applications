@@ -9,7 +9,8 @@ namespace _2001215742_HoThanhHai_Buoi4
     static class Program
     {
         public static mainForm frmMain = null;
-        public static Form1 loginForm = null;
+        public static FormLogin loginForm = null;
+        public static FormCauHinh frnCauHinh = null;
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -18,8 +19,8 @@ namespace _2001215742_HoThanhHai_Buoi4
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            loginForm = new Form1();
-            Application.Run(new Form1());
+            loginForm = new FormLogin();
+            Application.Run(new FormLogin());
         }
     }
 }

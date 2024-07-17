@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="cnn" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Data Source=A109PC49;Initial Catalog=Module_DN;Integrated Security=True</Value>
+      <Value Profile="(Default)">Data Source=A1049;Initial Catalog=Module_DN;Integrated Security=True</Value>
     </Setting>
   </Settings>
 </SettingsFile>

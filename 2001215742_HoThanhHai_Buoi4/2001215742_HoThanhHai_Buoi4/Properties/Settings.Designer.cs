@@ -25,7 +25,7 @@ namespace _2001215742_HoThanhHai_Buoi4.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=A109PC49;Initial Catalog=Module_DN;Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=Afghfghfgh049;Initial Catalog=Module_DN;Integrated Security=True")]
         public string cnn {
             get {
                 return ((string)(this["cnn"]));

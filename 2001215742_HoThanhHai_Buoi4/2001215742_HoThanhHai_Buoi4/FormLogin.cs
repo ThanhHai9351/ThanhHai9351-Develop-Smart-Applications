@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace _2001215742_HoThanhHai_Buoi4
 {
-    public partial class Form1 : Form
+    public partial class FormLogin : Form
     {
         QL_NguoiDung CauHinh = new QL_NguoiDung();
-        public Form1()
+        public FormLogin()
         {
             InitializeComponent();
             this.btnLogin.Click += btnLogin_Click;
@@ -43,14 +43,22 @@ namespace _2001215742_HoThanhHai_Buoi4
             if (kq == 1)
             {
                 MessageBox.Show("Chuỗi cấu hình không tồn tại");// Xử lý cấu hình
-                //ProcessConfig();
+                ProcessConfig();
             }
             if (kq == 2)
             {
                 MessageBox.Show("Chuỗi cấu hình không phù hợp");// Xử lý cấu hình
-                //ProcessConfig();
+                ProcessConfig();
             }
         }
+
+        private void ProcessConfig()
+        {
+            this.Visible = false;
+            Program.frnCauHinh = new FormCauHinh();
+            Program.frnCauHinh.Show();
+        }
+
 
         private void Form1_Load(object sender, EventArgs e)
         {

@@ -1,6 +1,6 @@
 ﻿namespace _2001215742_HoThanhHai_Buoi4
 {
-    partial class Form1
+    partial class FormLogin
     {
         /// <summary>
         /// Required designer variable.
